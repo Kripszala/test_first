@@ -1,6 +1,6 @@
 {
   "magisk":{
-    "version": "Modded by : amandeep 😎💪",
+    "version": "DUA ME YAAD RAKHNA",
     "versionCode": "23",
     "link":"https://github.com/topjohnwu/Magisk/releases/download/v23.0/Magisk-v23.0.apk",
     "note":""
